@@ -1,6 +1,8 @@
 
 # Audio/Video to Text Extractor with Google Cloud Speech-to-Text
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 This Python script extracts speech from audio or video files using **Google Cloud Speech-to-Text** and stores the transcribed text in a file. It automatically handles uploading long audio files to **Google Cloud Storage (GCS)** and processes both short and long audio files using Google Cloud's transcription APIs.
 
 ## Features
